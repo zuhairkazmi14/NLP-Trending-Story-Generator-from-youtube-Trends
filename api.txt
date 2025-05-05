@@ -1,0 +1,4 @@
+API_KEY = "AIzaSyBDgmFQctKDB9WXvIIXHTw_ZiPu49_oKuA"
+
+
+ titles = ["Papa Papa Main Kahan per baitha hun", "Aaj ka hogaya #abrazkhan  #shorts", "Madni did a devious magic trick for his friend 😂😂"]  # Add your trending titles here
